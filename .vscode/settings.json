@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/1d3abfb9-604b-478d-b716-7afa6ef8106e/resourceGroups/PostlyNS_group/providers/Microsoft.Web/sites/web-gpu74utt7u7hk",
+  "appService.deploySubpath": "."
+}
