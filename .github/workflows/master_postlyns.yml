@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'PostlyNS'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BF0EA90D28B34C7B9A2BC07ED51F6251 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5584EDBF7A4E48DFB0952145DFB093B2 }}
           package: .
